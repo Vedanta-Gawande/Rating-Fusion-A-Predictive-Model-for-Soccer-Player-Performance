@@ -8,7 +8,7 @@ To be done
 ### Team Members:
 - [Shashank Pratap Singh](https://www.linkedin.com/in/shashank-p-singh/)
 - [Jai Bobal](https://www.linkedin.com/in/jaibobal/)
-- [Vedant Gawande](https://www.linkedin.com/in/vedanta-gawande-4606761b8/)
+- [Vedanta Gawande](https://www.linkedin.com/in/vedanta-gawande-4606761b8/)
 
 ### Table of Contents:
 - [Installation](#installation)
