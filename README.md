@@ -12,10 +12,11 @@ Driven by this curiosity and with the European Soccer database, we saw an opport
 - [Jai Bobal](https://www.linkedin.com/in/jaibobal/)
 - [Vedanta Gawande](https://www.linkedin.com/in/vedanta-gawande-4606761b8/)
 
-### Acknowledgements:
+### Acknowledgement:
 We express our gratitude to the following individuals and organizations whose contributions and support were invaluable in the completion of this project:
 
 European Soccer Database: We extend our thanks to the creators and maintainers of the European Soccer Database for providing the comprehensive dataset that formed the foundation of our analysis. Without access to this rich source of soccer-related data, this project would not have been possible.
+
 Professor Dr. Fardina Alam[https://www.fardinafathmiulalam.com/]: We are indebted to Professor Fardina for their guidance, mentorship, and valuable feedback throughout the duration of the CMSC320 class. Their expertise and insights played a significant role in shaping our understanding of data analysis and predictive modeling techniques.
 
 ## License
