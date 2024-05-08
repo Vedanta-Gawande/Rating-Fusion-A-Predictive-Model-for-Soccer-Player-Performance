@@ -17,7 +17,7 @@ We express our gratitude to the following individuals and organizations whose co
 
 European Soccer Database: We extend our thanks to the creators and maintainers of the European Soccer Database for providing the comprehensive dataset that formed the foundation of our analysis. Without access to this rich source of soccer-related data, this project would not have been possible.
 
-Professor Dr. Fardina Alam[https://www.fardinafathmiulalam.com/]: We are indebted to Professor Fardina for their guidance, mentorship, and valuable feedback throughout the duration of the CMSC320 class. Their expertise and insights played a significant role in shaping our understanding of data analysis and predictive modeling techniques.
+Professor [Dr. Fardina Alam](https://www.fardinafathmiulalam.com/): We are indebted to Professor Fardina for their guidance, mentorship, and valuable feedback throughout the duration of the CMSC320 class. Their expertise and insights played a significant role in shaping our understanding of data analysis and predictive modeling techniques.
 
 ## License
 
