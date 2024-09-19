@@ -1,7 +1,5 @@
 # CMSC320 Group Final Project
 
-link: https://shashanksp04.github.io/CMSC320_FINAL_PROJECT/
-
 ## Project Title: "Rating Fusion: A Predictive Model for Soccer Player Performance"
 
 ### Overview:
